@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">OtusPoject</string>
+
+    <!--titles-->
+    <string name="title_favorites">Favorites</string>
+    <string name="title_invite">Invite friend…</string>
+    <string name="title_main">Main</string>
+    <!--titles-->
+
+    <string name="details">Details</string>
 </resources>
